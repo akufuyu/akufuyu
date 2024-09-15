@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**akufuyu/akufuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alex.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Based in Moscow (Russia), but open for relocation opportunities
+- Self-education person
+
+## Технологический стек
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; padding:10px;">
+ <img src="misc/badges/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="misc/badges/ssh.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp
+  <img src="misc/badges/gitlab.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
+  <img src="misc/badges/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
+  <img src="misc/badges/postgresql.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
+  <img src="misc/badges/bash.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="misc/badges/c.svg" title="c" alt="c" width="40" height="40"/>&nbsp
+  <img src="misc/badges/cplusplus.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp
+</div>
