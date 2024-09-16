@@ -8,6 +8,9 @@ My name is Alex.
 
 ## Технологический стек
 
+
+<img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"/>       
 <img align="left" alt="Git" width="45px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 <img align="left" alt="Docker" width="45px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
 <img align="left" alt="Bash" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
